@@ -1,0 +1,133 @@
+id,note,target,source,,Next Week 2016/12/19
+1,"mulliple contributing factors:
+, genetics
+'lifestyle
+, obesity",na,na,,- list_all_nodes
+2,"initiating mechanism leading to insulin
+resistance is unknown but could include:
+, post-insulin receptor (signaling) defect
+, elevated levels of free fatty acids",na,na,,locate_all_loops
+3,"glucose dependent tissues
+(skeletal muscle, liver,
+adipocytes) are unable
+to take up glucose",na,na,,num_of_neighbors
+4,"peripheral
+insulin
+resistance",na,na,,
+5,"sends signals
+to liver to increase
+gluconeogenesis and
+glycogenolysis",na,na,,
+6,"excess hepatic
+glucose output",na,na,,
+7,"stimulates more
+insulin release",na,na,,
+8,"eventually,
+beta cell exhaustion
+occurs",na,na,,
+9,"glucose tolerance
+is initially normal because
+beta cells compensate by
+fr insulin production =
+hyperinsulinemia",na,na,,
+10,"leads to down regulation
+of insulin receptors",na,na,,
+11,"impaired
+insulin
+secretion",na,na,,
+12,""" glucose
+uptake",na,na,,
+13,"hyperglycemia of
+diabetes type 2",na,na,,
+14,"responsible
+for symptoms and chronic complications of diabetes",na,na,,
+15,"labs:
+, fasting glucose> 126 mg/dL
+, elevated HbA 1 c",na,na,,
+16,"illness
+infection",na,na,,
+17,acute emergent onset,na,na,,
+18,glucose > 600 mg/dL,na,na,,
+19,plasma osmolality approx > 300 mg/dL,na,na,,
+20,"hyperosmolar
+coma",na,na,,
+21,no ketones!,na,na,,
+22,"onset determines
+clinical presentation",na,na,,
+23,"insidious
+onset",na,na,,
+24,"excess serum
+glucose exceeds
+renal threshold",na,na,,
+25,osmotic diuresis,na,na,,
+26,loss of H2O K+ Na+,na,na,,
+27,dehydration,na,na,,
+28,"stimulates
+thirst",na,na,,
+29,polydipsia,na,na,,
+30,glycosuria,na,na,,
+31,polyuria,na,na,,
+32,"chronic
+complications",na,na,,
+33,microvascular,na,na,,
+34,macrovascular,na,na,,
+35,"retinopathy:
+' mlcroaneurysms
+, neovascularization
+, blindness
+, exudates",na,na,,
+36,"nephropathy: glomerulosclerosis
+, microalbuminuria, proteinuria, chronic renal failure (see map)",na,na,,
+37,"neuropathy: gastroparesis
+, orthostatic hypotension
+, stocking glove paresthesias",na,na,,
+38,"TG, LDL, HDL",na,na,,
+39,"accelerated
+atherosclerosis
+(see map)",na,na,,
+40,"MI (see map)
+, stroke (see map)
+, peripheral vascular disease",na,na,,
+41,dyslipidemia,na,na,,
+42,,2,1,,
+43,,3,2,,
+44,,4,3,,
+45,,5,3,,
+46,,6,5,,
+47,,7,6,,
+48,,8,7,,
+49,,9,4,,
+50,,8,9,,
+51,,10,9,,
+52,,11,8,,
+53,,12,10,,
+54,,13,11,,
+55,,13,12,,
+56,,15,13,,
+57,,14,13,,
+58,,22,14,,
+59,,17,16,,
+60,,18,17,,
+61,,19,18,,
+62,,20,19,,
+63,,21,20,,
+64,,22,17,,
+65,,23,22,,
+66,,24,23,,
+67,,25,24,,
+68,,26,25,,
+69,,27,26,,
+70,,28,27,,
+71,,29,28,,
+72,,30,25,,
+73,,31,30,,
+74,,32,14,,
+75,,33,32,,
+76,,34,33,,
+77,,38,34,,
+78,,39,38,,
+79,,40,39,,
+80,,41,38,,
+81,,35,33,,
+82,,36,33,,
+83,,37,33,,
